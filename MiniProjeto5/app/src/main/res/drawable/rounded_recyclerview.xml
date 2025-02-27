@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- res/drawable/rounded_recyclerview.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="@android:color/white" /> <!-- Cor de fundo do RecyclerView -->
+        <corners android:radius="16dp" /> <!-- Raio das bordas arredondadas -->
+    </shape>
+</selector>
